@@ -18,8 +18,7 @@ function Right() {
       setRotatee("-225")
       
     }else if(pizza === 3){
-      setRotatee("-315")
-      
+      setRotatee("-315");      
 
     }else{
       setRotatee("-45")
